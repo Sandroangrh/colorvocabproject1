@@ -1,0 +1,31 @@
+ol{
+    margin-left: -40px;
+    margin-top: 10px;
+    list-style-position: inside;
+}
+
+p{
+    color: red;
+}
+
+.note{
+    font-size: 20px;
+}
+
+li[value="2"]{
+    color: yellow;
+}
+
+#id-selector-demo{
+    color: green;
+}
+
+li[value="4"]{
+    color: blue;
+}
+
+*{
+    
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
